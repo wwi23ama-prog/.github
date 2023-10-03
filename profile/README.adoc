@@ -1,0 +1,3 @@
+= WWI23AMA-Programmierung
+
+Diese Organisation enthält Material zu den Vorlesungen "Programmierung 1" und "Programmierung 2" im Kurs WWI23AMA an der DHBW Mannheim.
